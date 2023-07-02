@@ -2,6 +2,10 @@
 
 set -e
 
+#nvm
+source ~/.nvm/nvm.sh
+nvm use 16
+
 # build
 npm run build:docs
 

@@ -9,6 +9,10 @@
     "build:docs": "vuepress build docs",
     "watch": "tsc -w"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snowycn324/tailwindcss-rtx"
+  },
   "typings": "dist/index.d.ts",
   "keywords": [
     "tailwind",
