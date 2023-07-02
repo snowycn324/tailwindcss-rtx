@@ -46,6 +46,10 @@ module.exports = {
         text: 'Colors',
         link: '/colors/',
       },
+      {
+        text: 'Github',
+        link: 'https://github.com/snowycn324/tailwindcss-rtx'
+      }
     ],
   },
 
