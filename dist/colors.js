@@ -1,0 +1,31 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const RtxColors = {
+    'dark': '#4D4D4D',
+    'dark-hover': '#333333',
+    'dark-500': '#555555',
+    'dark-900': '#9C9C9C',
+    'grey': '#D1D1D1',
+    'light': '#EBEBEB',
+    'lighter': '#F5F5F5',
+    'lightest': '#EFEFEF',
+    'blue': '#002896',
+    'blue-hover': '#001D6D',
+    'blue-100': '#00A0F0',
+    'blue-100-hover': '#0070C0',
+    'green': '#009500',
+    'green-soft': '#D9F8D9',
+    'orange': '#e6a23c',
+    'primary': '#00B900',
+    'secondary': '#002896',
+    'danger': '#DF0101',
+    'danger-hover': '#8C0000',
+    'danger-100': '#BC321F',
+    'danger-invert': '#FFEEEE',
+    'warning': '#A35E04',
+    'warning-invert': '#FFF9E4',
+    'success': '#047205',
+    'success-invert': '#EAFFEA',
+    'white-opacity': '#ffffff73',
+};
+exports.default = RtxColors;

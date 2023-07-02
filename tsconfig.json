@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "module": "CommonJS",
+    "allowJs": true,
+    "esModuleInterop": true,
+    "target": "es2017",
+    "noEmitOnError": true,
+    "strict": true,
+    "outDir": "dist"
+  },
+  "include": [
+    "src/**.ts", "src/**.js"
+  ]
+}

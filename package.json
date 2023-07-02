@@ -1,0 +1,30 @@
+{
+  "name": "tailwindcss-rtx",
+  "version": "0.0.1",
+  "description": "Tailwindcss plugin from Rakuten Travel Xchange Custom Site Team.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "dev": "vuepress dev docs",
+    "build:docs": "vuepress build docs",
+    "watch": "tsc -w"
+  },
+  "typings": "dist/index.d.ts",
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "rtx",
+    "plugin"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.1.6",
+    "vue-clipboard2": "^0.3.3",
+    "vuepress": "^1.9.9"
+  },
+  "peerDependencies": {
+    "tailwindcss": "^2.0.0"
+  }
+}
