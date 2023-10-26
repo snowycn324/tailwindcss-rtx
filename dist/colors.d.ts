@@ -15,7 +15,6 @@ declare const RtxColors: {
     'rtx-blue-700': string;
     'rtx-blue-800': string;
     'rtx-blue-900': string;
-    'rtx-blue-hover-950': string;
     'rtx-red-danger-100': string;
     'rtx-red-danger-400': string;
     'rtx-red-danger-600': string;
