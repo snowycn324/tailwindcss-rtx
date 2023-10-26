@@ -42,7 +42,8 @@ export default {
     },
     rtxColorsFilterArray() {
       return this.rtxColorsArray.filter((color) => {
-        return color.name.includes(this.searchKeyword) || color.value.includes(this.searchKeyword)
+        const lowerCaseSearchWord = this.searchKeyword.toLowerCase();
+        return color.name.toLowerCase().includes(lowerCaseSearchWord) || color.value.toLowerCase().includes(lowerCaseSearchWord);
       })
     }
   }
