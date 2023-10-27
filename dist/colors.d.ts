@@ -23,7 +23,6 @@ declare const RtxColors: {
     'rtx-gray-150': string;
     'rtx-gray-200': string;
     'rtx-gray-300': string;
-    'rtx-brown-warning-600': string;
     'rtx-yellow-100': string;
     'rtx-yellow-600': string;
 };

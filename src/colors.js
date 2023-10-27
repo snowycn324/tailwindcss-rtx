@@ -22,7 +22,6 @@ const RtxColors = {
   'rtx-gray-150': '#E9ECEF',
   'rtx-gray-200': '#D1D1D1',
   'rtx-gray-300': '#B6B6B6',
-  'rtx-brown-warning-600': '#A35E04',
   'rtx-yellow-100': '#FFF9E4',
   'rtx-yellow-600': '#A35E04',
 };
