@@ -20,6 +20,7 @@
     "rtx",
     "plugin"
   ],
+  "files": ["src/*", "dist/*"],
   "author": "Your Name",
   "license": "MIT",
   "devDependencies": {

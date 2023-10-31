@@ -23,4 +23,4 @@ export default {
 ```
 
 ## Version
-Now the latest version of Tailwindcss-RTX is ```0.0.1```
+Now the latest version of Tailwindcss-RTX is ```0.0.9```

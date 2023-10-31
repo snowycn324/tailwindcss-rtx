@@ -1,7 +1,6 @@
 export default RtxColors;
 declare const RtxColors: {
     'rtx-green-success-100': string;
-    'rtx-green-150': string;
     'rtx-green-600': string;
     'rtx-green-700': string;
     'rtx-green-success-800': string;
@@ -9,15 +8,16 @@ declare const RtxColors: {
     'rtx-black-500': string;
     'rtx-black-800': string;
     'rtx-black-900': string;
-    'rtx-blue-100': string;
+    'rtx-blue-info-100': string;
     'rtx-blue-500': string;
     'rtx-blue-600': string;
     'rtx-blue-700': string;
+    'rtx-blue-info-750': string;
     'rtx-blue-800': string;
     'rtx-blue-900': string;
     'rtx-red-danger-100': string;
-    'rtx-red-danger-400': string;
     'rtx-red-danger-600': string;
+    'rtx-red-650': string;
     'rtx-red-900': string;
     'rtx-gray-100': string;
     'rtx-gray-150': string;
